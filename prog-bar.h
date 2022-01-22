@@ -1,3 +1,6 @@
+// prog-bar.h - ASCII progress bar.
+// Copyright (C) 2022 Robert Coffey
+
 #ifndef PROG_BAR_H
 #define PROG_BAR_H
 
