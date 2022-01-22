@@ -1,0 +1,5 @@
+((synopsis "prog-bar bindings for CHICKEN 5.")
+ (author "Robert Coffey")
+ (license "MIT")
+ (version "0.1.0")
+ (components (extension prog-bar)))
