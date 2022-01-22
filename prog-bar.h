@@ -1,4 +1,4 @@
-// prog-bar.h - ASCII progress bar.
+// prog-bar.h - ASCII progress bar library.
 // Copyright (C) 2022 Robert Coffey
 
 #ifndef PROG_BAR_H
