@@ -36,7 +36,7 @@ void prog_bar_draw(prog_bar_t *pb);
 #include <stdlib.h>
 
 void error(const char *msg) {
-    puts(msg);
+    fputs(msg, stderr);
     exit(1);
 }
 
