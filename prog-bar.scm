@@ -1,5 +1,4 @@
 ;;;; prog-bar.scm - prog-bar bindings for CHICKEN 5.
-;;;; Copyright (C) 2022 Robert Coffey
 
 (declare
   (foreign-declare "#define PROG_BAR_DEFINE")

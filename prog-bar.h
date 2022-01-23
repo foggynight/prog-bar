@@ -1,5 +1,6 @@
 // prog-bar.h - ASCII progress bar library.
 // Copyright (C) 2022 Robert Coffey
+// Released under the MIT license.
 
 #ifndef PROG_BAR_H
 #define PROG_BAR_H
